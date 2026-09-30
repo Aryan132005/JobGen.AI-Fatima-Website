@@ -1,143 +1,96 @@
-# 🎙️ Care to Voice — Executive Coaching & Workforce Consulting Platform
+# 🎙️ Care to Voice — Executive Career Coaching & Workforce Advisory
 
-[![Live Website](https://img.shields.io/badge/Website-caretovoice.com-amber?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.caretovoice.com)
-[![Official Shop](https://img.shields.io/badge/Store-caretovoice.com%2Fshop-orange?style=for-the-badge&logo=wix&logoColor=white)](https://www.caretovoice.com/shop)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-FatimaCaretoVoice-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FatimaCaretoVoice)
+[![Render Live](https://img.shields.io/badge/Render%20Live-care--to--voice--jobgen--ai.onrender.com-amber?style=for-the-badge&logo=render&logoColor=white)](https://care-to-voice-jobgen-ai.onrender.com/)
+[![Spotify Podcast](https://img.shields.io/badge/Spotify-Care%20to%20Voice%20Podcast-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/2LuHJAZ3Kc1DDHOAyAib2x)
+[![YouTube](https://img.shields.io/badge/YouTube-@FatimaCaretoVoice-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FatimaCaretoVoice)
+[![Instagram](https://img.shields.io/badge/Instagram-@caretovoice-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caretovoice)
+[![Facebook](https://img.shields.io/badge/Facebook-Care%20to%20Voice-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/caretovoice)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F%C3%A1tima%20Abreu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-abreu-arellano/)
+
+---
 
 > **Empowering Leaders. Transforming Organizations. Aligning Career & Compensation.**  
-> Official web platform for **Fátima Y. Abreu Arellano** — Author of *"Be The Reason You Thrive"*, Executive Leadership Coach, and Total Rewards / Workforce Consulting Principal.
-
-🌐 **Live Website Link**: https://jobgen-fatima-website.vercel.app
-🛍️ **Merchandise Store Link**: [https://www.caretovoice.com/shop](https://www.caretovoice.com/shop)  
-📺 **YouTube Channel**: [https://www.youtube.com/@FatimaCaretoVoice](https://www.youtube.com/@FatimaCaretoVoice)
+> Official executive web platform for **Fátima Y. Abreu Arellano** — Author of *"Be The Reason You Thrive"*, Executive Leadership Coach, and Enterprise Total Rewards & Workforce Strategy Principal.
 
 ---
 
-## 🌟 Overview
+## 🔗 Official Platforms & Media Links
 
-**Care to Voice** is a state-of-the-art, high-converting digital platform built for C-suite executives, senior professionals, and HR workforce leaders. Designed with modern glassmorphic aesthetics, fluid micro-interactions, high-contrast obsidian slate typography, and authentic multimedia assets.
-
----
-
-## ⚡ Key Features & Modules
-
-### 🎬 1. Fullscreen Cinematic Hero & Audio Teaser
-- **High-Definition Video Background**: Fullscreen executive leadership video showcase.
-- **Vibrant Headline Typography**: High-impact warm amber/orange gradient styling for maximum readability.
-- **Audio Teaser**: Instant interactive audio preview with animated soundwave visualizer.
-
-### 🧭 2. Executive Coaching & Total Rewards Consulting
-- **4-Step Career Alignment Framework**: Detailed visual diagram of *Discovery & Audit*, *Target Positioning*, *Total Rewards Alignment*, and *Executive Execution*.
-- **Click-to-Zoom HD Diagram Modal**: Interactive full-screen view of Fatima's executive coaching roadmap.
-- **Tabbed Experience**: Seamless switching between **Career Clarity Coaching (1-on-1)** and **Corporate Workforce / Total Rewards Consulting**.
-
-### 📖 3. "Be The Reason You Thrive" Book Spotlight
-- **Published Book Feature**: Direct showcase of Fatima Abreu's self-leadership guide.
-- **Author Edition Ordering**: Instant cart integration for signed hardcover copies.
-
-### 🛍️ 4. Official Merchandise & Thrive Store
-- **100% Authentic Products**: Direct integration of official merchandise from `caretovoice.com/shop`.
-  - **CARE Puzzle Collection** ("Lead From The Inside Out"): Hoodies, T-shirts, Totes, and Backpacks.
-  - **Confusion & Clarity Collection**: Executive fitted tees, zipped hoodies, and studio canvas totes.
-  - **The Dodecahedron Collection**: Graphic tees, heavyweight fleece, and geometric totes.
-  - **Be An Enabler Collection**: Leadership V-neck tees and momentum canvas totes.
-  - **Workbooks & Vouchers**: Career Direction PDF workbook, Thrive Daily Reflection Journal, and Gift Clarity Call vouchers.
-- **Optimized Product Cards**: Taller 360px image boxes with `object-contain` for 100% complete photo visibility without cropping.
-- **Home Preview Mode**: Displays top 3 featured products on Home page with a direct *"Explore All Merchandise & Store"* CTA.
-- **Slide-Over Cart & Confetti Checkout**: Interactive slide-over cart drawer with animated checkout modal.
-
-### 📊 5. Interactive Assessment Tools & Modals
-- **Career Direction Quiz Modal**: Interactive multi-step diagnostic for identifying career bottlenecks.
-- **Total Rewards ROI Calculator Modal**: Financial estimation tool for evaluating executive compensation and retention alignment.
-- **Direct 1-on-1 Session Booking Modal**: Calendar booking interface for strategy calls.
-
-### 💬 6. Communication & Accessibility
-- **Floating Emerald WhatsApp Quick-Inquiry**: Authentic `#25D366` floating action button with dismissible tooltip.
-- **AI Executive Chatbot Assistant**: Floating assistant providing immediate session guidance and navigation.
+| Channel | Direct Access Link | Description |
+| :--- | :--- | :--- |
+| 🚀 **Render Web App** | [https://care-to-voice-jobgen-ai.onrender.com/](https://care-to-voice-jobgen-ai.onrender.com/) | Live Executive Platform |
+| 🎙️ **Spotify Podcast** | [Listen on Spotify](https://open.spotify.com/show/2LuHJAZ3Kc1DDHOAyAib2x) | *Care to Voice Podcast Series* |
+| 📺 **YouTube Channel** | [Watch on YouTube](https://www.youtube.com/@FatimaCaretoVoice) | Keynotes, Masterclasses & Shorts |
+| 📸 **Instagram** | [@caretovoice](https://www.instagram.com/caretovoice) | Daily Executive Reels & Insights |
+| 📘 **Facebook** | [Care to Voice Facebook](https://www.facebook.com/caretovoice) | Community Articles & Updates |
+| 💼 **LinkedIn** | [Fátima Y. Abreu Arellano](https://www.linkedin.com/in/fatima-abreu-arellano/) | Executive Network & Advisory |
 
 ---
 
-## 🛠️ Technology Stack
+## 🌟 Executive Platform Features & Architecture
 
-| Layer | Technology |
-| :--- | :--- |
-| **Framework** | [React 18](https://react.dev/) + [Vite](https://vitejs.dev/) |
-| **Styling** | Vanilla CSS3 + Modern Glassmorphism + [Tailwind CSS v4](https://tailwindcss.com/) |
-| **Icons** | [Lucide React](https://lucide.dev/) |
-| **Animations & FX** | [Canvas Confetti](https://www.npmjs.com/package/canvas-confetti) + HTML5 Canvas (`VoiceCanvas.jsx`) |
-| **Media Hosting** | Authentic Wix Static CDN (`static.wixstatic.com`) + Local Assets |
+### 1. 🎯 Dedicated Standalone Service Pages
+- **1-on-1 Executive Coaching**: High-impact advisory designed for senior professionals, board candidates, and leaders navigating career momentum and AI readiness.
+- **Enterprise Total Rewards Consulting**: Corporate incentive architecture, cross-border workforce alignment, compensation governance, and retention strategies.
+
+### 2. ⚡ Bottom-Right Floating Executive Action Stack
+- **AI Career Quiz**: Interactive 2-minute readiness diagnostic to evaluate personal market leverage.
+- **Ask Fátima AI Guide**: Conversational AI assistant providing instant answers on executive coaching, consulting, book excerpts, and podcasts.
+- **Book Strategy Audit**: Direct booking integration for 1-on-1 strategic executive audits.
+
+### 3. 🎬 Multimedia & Community Hub
+- **Spotify Podcast Player**: Direct streaming integration for top episodes and podcast deep dives.
+- **YouTube Video Showcase**: High-production keynote videos and short-form executive strategy reels.
+- **Thrive Book Showcase**: Interactive preview of Fátima Abreu's published work, *"Be The Reason You Thrive"*.
 
 ---
 
-## 📁 Project Structure
+## 🛠️ Technology Stack & Dependencies
 
-```
-fatima_website/
-├── public/
-│   ├── career_framework.jpg          # HD 4-Step Executive Coaching Framework
-│   ├── hero_video.mp4                # High-Definition Hero Video
-│   ├── shop_workbook.jpg             # Workbooks & Reflection Journal Asset
-│   └── career_clarity_roadmap.jpg    # Roadmap Visual
-├── src/
-│   ├── assets/                       # Images, Videos, and Logos
-│   ├── components/
-│   │   ├── Navbar.jsx                # Header Navigation & Page View Switcher
-│   │   ├── Hero.jsx                  # Video Background & Audio Teaser
-│   │   ├── AboutSection.jsx          # Founder Biography & Philosophy
-│   │   ├── CoachingPrograms.jsx      # Coaching & Consulting Tabs + Framework Modal
-│   │   ├── BookSection.jsx           # Author Book Showcase
-│   │   ├── ShopSection.jsx           # Care to Voice Authentic Merch Store
-│   │   ├── PodcastPlayer.jsx         # Audio Series Player
-│   │   ├── YouTubeSection.jsx        # YouTube Masterclasses Feed
-│   │   ├── TestimonialsSection.jsx   # Executive Testimonials Carousel
-│   │   ├── FaqSection.jsx            # Interactive FAQ Accordion
-│   │   ├── VoiceCanvas.jsx           # Interactive Radial Multi-Color Background
-│   │   ├── WhatsAppButton.jsx        # Floating Emerald WhatsApp Quick-Inquiry
-│   │   └── Modals/                   # Quiz, Calculator, Booking, and Journal Modals
-│   ├── index.css                     # Design Tokens & High-Contrast Typography
-│   ├── App.jsx                       # Root Application & Navigation Router
-│   └── main.jsx                      # Application Entry Point
-├── package.json
-└── vite.config.js
-```
+- **Frontend Framework**: React 18 with Vite
+- **Styling**: Tailored Modern Vanilla CSS + Glassmorphic Utility Design Tokens
+- **Icons & Visual Assets**: Lucide React Iconography + High-Res SVG & WebP Media
+- **Deployment Platform**: Render Static Site (`render.yaml` Blueprint automation)
 
 ---
 
 ## 🚀 Local Development Setup
 
-### Prerequisites
-- [Node.js](https://nodejs.org/) (v18 or higher recommended)
-- `npm` or `yarn`
+```bash
+# Clone the repository
+git clone https://github.com/Aryan132005/JobGen.AI-Fatima-Website.git
 
-### Installation Steps
+# Navigate into project directory
+cd "fatiam website Jobgen.ai"
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/jayantvaibhavspj/jobgen-fatima_website-.git
-   cd jobgen-fatima_website-
-   ```
+# Install dependencies
+npm install
 
-2. **Install Dependencies**:
-   ```bash
-   npm install
-   ```
+# Start local dev server
+npm run dev
+```
 
-3. **Start Development Server**:
-   ```bash
-   npm run dev
-   ```
-   Open your browser at `http://localhost:5173`.
-
-4. **Build for Production**:
-   ```bash
-   npm run build
-   ```
+Local server starts at: `http://localhost:5173/`
 
 ---
 
-## 👤 Author & Credits
+## 📦 Deployment Blueprint (`render.yaml`)
 
-- **Founder & Principal Coach**: Fátima Y. Abreu Arellano (*Care to Voice*)
-- **Official Website**: [https://www.caretovoice.com](https://www.caretovoice.com)
-- **YouTube Channel**: [@FatimaCaretoVoice](https://www.youtube.com/@FatimaCaretoVoice)
-- **Built for**: C-Suite Leadership, Executive Career Pivots & Corporate Total Rewards Consulting.
+This project includes a native `render.yaml` blueprint for 1-click automated build and deployment:
+
+```yaml
+services:
+  - type: web
+    name: care-to-voice-jobgen-ai
+    env: static
+    buildCommand: npm install && npm run build
+    staticPublishPath: ./dist
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+```
+
+---
+
+© 2026 **Care to Voice by Fátima Y. Abreu Arellano**. All rights reserved.
