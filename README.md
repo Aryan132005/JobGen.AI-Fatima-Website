@@ -14,81 +14,49 @@
 
 ---
 
-## 🔗 Official Platforms & Media Links
+## 🔗 Official Platforms & Direct Media Links
 
-| Channel | Direct Access Link | Description |
-| :--- | :--- | :--- |
-| 🚀 **Render Web App** | [https://care-to-voice-jobgen-ai.onrender.com/](https://care-to-voice-jobgen-ai.onrender.com/) | Live Executive Platform |
-| 🎙️ **Spotify Podcast** | [Listen on Spotify](https://open.spotify.com/show/2LuHJAZ3Kc1DDHOAyAib2x) | *Care to Voice Podcast Series* |
-| 📺 **YouTube Channel** | [Watch on YouTube](https://www.youtube.com/@FatimaCaretoVoice) | Keynotes, Masterclasses & Shorts |
-| 📸 **Instagram** | [@caretovoice](https://www.instagram.com/caretovoice) | Daily Executive Reels & Insights |
-| 📘 **Facebook** | [Care to Voice Facebook](https://www.facebook.com/caretovoice) | Community Articles & Updates |
-| 💼 **LinkedIn** | [Fátima Y. Abreu Arellano](https://www.linkedin.com/in/fatima-abreu-arellano/) | Executive Network & Advisory |
+- 🌐 **Live Website (Render App)**: [https://care-to-voice-jobgen-ai.onrender.com/](https://care-to-voice-jobgen-ai.onrender.com/)
+- 🎧 **Spotify Podcast Show**: [https://open.spotify.com/show/2LuHJAZ3Kc1DDHOAyAib2x](https://open.spotify.com/show/2LuHJAZ3Kc1DDHOAyAib2x)
+- 📺 **YouTube Video Channel**: [https://www.youtube.com/@FatimaCaretoVoice](https://www.youtube.com/@FatimaCaretoVoice)
+- 📸 **Instagram Handle**: [https://www.instagram.com/caretovoice](https://www.instagram.com/caretovoice)
+- 📘 **Facebook Community Page**: [https://www.facebook.com/caretovoice](https://www.facebook.com/caretovoice)
+- 💼 **LinkedIn Profile**: [https://www.linkedin.com/in/fatima-abreu-arellano/](https://www.linkedin.com/in/fatima-abreu-arellano/)
 
 ---
 
-## 🌟 Executive Platform Features & Architecture
+## 🌟 Overview & Platform Features
 
-### 1. 🎯 Dedicated Standalone Service Pages
-- **1-on-1 Executive Coaching**: High-impact advisory designed for senior professionals, board candidates, and leaders navigating career momentum and AI readiness.
-- **Enterprise Total Rewards Consulting**: Corporate incentive architecture, cross-border workforce alignment, compensation governance, and retention strategies.
+**Care to Voice** is a state-of-the-art, high-converting digital platform built for C-suite executives, senior professionals, and HR workforce leaders. Designed with modern glassmorphic aesthetics, fluid micro-interactions, high-contrast obsidian slate typography, and authentic multimedia assets.
 
-### 2. ⚡ Bottom-Right Floating Executive Action Stack
-- **AI Career Quiz**: Interactive 2-minute readiness diagnostic to evaluate personal market leverage.
-- **Ask Fátima AI Guide**: Conversational AI assistant providing instant answers on executive coaching, consulting, book excerpts, and podcasts.
-- **Book Strategy Audit**: Direct booking integration for 1-on-1 strategic executive audits.
+### 🧭 1. Dedicated Executive Service Pages
+- **Career Clarity Coaching (1-on-1)**: High-impact executive advisory, 90-day advancement tracks, personal brand positioning, and AI readiness.
+- **Enterprise Total Rewards & Workforce Advisory**: Enterprise compensation governance, cross-border mobility policies, incentive architecture, and talent retention strategies.
 
-### 3. 🎬 Multimedia & Community Hub
-- **Spotify Podcast Player**: Direct streaming integration for top episodes and podcast deep dives.
-- **YouTube Video Showcase**: High-production keynote videos and short-form executive strategy reels.
-- **Thrive Book Showcase**: Interactive preview of Fátima Abreu's published work, *"Be The Reason You Thrive"*.
+### ⚡ 2. Bottom-Right Floating Executive Action Stack
+- **Executive Career Quiz**: 2-minute interactive readiness assessment.
+- **Ask Fátima AI Guide**: Interactive conversational AI guide.
+- **Book Strategy Audit**: 1-on-1 executive consultation booking.
 
----
-
-## 🛠️ Technology Stack & Dependencies
-
-- **Frontend Framework**: React 18 with Vite
-- **Styling**: Tailored Modern Vanilla CSS + Glassmorphic Utility Design Tokens
-- **Icons & Visual Assets**: Lucide React Iconography + High-Res SVG & WebP Media
-- **Deployment Platform**: Render Static Site (`render.yaml` Blueprint automation)
+### 🎬 3. Spotify, YouTube & Social Media Integration
+- **Spotify Podcast Player**: Direct audio stream for official episodes.
+- **YouTube Shorts & Masterclasses**: Embedded video learning suite.
+- **Instagram & Facebook Feed**: Live social media engagement hub.
 
 ---
 
-## 🚀 Local Development Setup
+## 🛠️ Tech Stack
+
+- **Framework**: React 18 + Vite
+- **Styling**: Vanilla CSS + Glassmorphism Tokens
+- **Deployment**: Render Blueprint (`render.yaml`)
 
 ```bash
-# Clone the repository
-git clone https://github.com/Aryan132005/JobGen.AI-Fatima-Website.git
-
-# Navigate into project directory
-cd "fatiam website Jobgen.ai"
-
 # Install dependencies
 npm install
 
-# Start local dev server
+# Run dev server locally
 npm run dev
-```
-
-Local server starts at: `http://localhost:5173/`
-
----
-
-## 📦 Deployment Blueprint (`render.yaml`)
-
-This project includes a native `render.yaml` blueprint for 1-click automated build and deployment:
-
-```yaml
-services:
-  - type: web
-    name: care-to-voice-jobgen-ai
-    env: static
-    buildCommand: npm install && npm run build
-    staticPublishPath: ./dist
-    routes:
-      - type: rewrite
-        source: /*
-        destination: /index.html
 ```
 
 ---
