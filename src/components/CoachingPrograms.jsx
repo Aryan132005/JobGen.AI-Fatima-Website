@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Target, Users, Zap, CheckCircle2, ArrowRight, ShieldCheck, Award, Sparkles, Calculator, Maximize2, X, Compass, Lightbulb, TrendingUp } from 'lucide-react';
 import careerFramework from '../assets/career_framework.jpg';
 import careerRoadmap from '../assets/career_clarity_roadmap.jpg';
+import highImpactImg from '../assets/high_impact.png';
 
 const SERVICES = [
   {
@@ -74,7 +75,7 @@ const SERVICES = [
     badge: 'STRATEGY. CULTURE. RETENTION.',
     heading: 'Workforce Strategy That Retains Top Talent',
     subtitle: 'Enterprise-grade Total Rewards, executive incentive architecture, and workforce transformation consulting built for modern organizations.',
-    image: 'https://static.wixstatic.com/media/68c1c8_82d056f3a13343a4a83525b098ec1584~mv2.avif/v1/fill/w_834,h_556,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Total%20Rewards%20%26%20Worforce%20Services.avif',
+    image: highImpactImg,
     linkedinUrl: 'https://www.linkedin.com/in/fatima-abreu-arellano/',
     consultingPillars: [
       {
